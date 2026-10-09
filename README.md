@@ -1,5 +1,3 @@
-# shl-grammar-scoring
-
 # 🎙️ Grammar Scoring Engine for Spoken Data
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
